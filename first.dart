@@ -14,4 +14,5 @@ void main()
     print(y);// to check the default data type
     print(num1.runtimeType);
     print(num==num1);// checking 
+    // all the data type in dart are object . so the default value is NULL
 }
