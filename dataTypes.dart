@@ -30,7 +30,7 @@ void main()
   gifts['fifth'] = 'golden rings';
   print(gifts);
 
- var f=List<int>[];
+ var f=<int>[];
  f.add(1);
  f.add(2);
  print(f); 
